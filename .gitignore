@@ -264,3 +264,4 @@ FakesAssemblies/
 
 test-app-api/obj/*
 .idea/
+[Oo]bj/
