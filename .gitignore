@@ -263,3 +263,4 @@ FakesAssemblies/
 *.opt
 
 test-app-api/obj/*
+.idea/
